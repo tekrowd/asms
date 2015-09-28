@@ -1,0 +1,332 @@
+[19-Jul-2015 01:07:09 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[19-Jul-2015 01:08:19 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[19-Jul-2015 01:09:35 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[19-Jul-2015 01:33:15 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[19-Jul-2015 01:33:45 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[19-Jul-2015 01:33:51 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[19-Jul-2015 01:34:36 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[19-Jul-2015 01:34:40 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[19-Jul-2015 01:35:05 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[19-Jul-2015 15:52:26 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[19-Jul-2015 15:52:26 America/New_York] PHP Fatal error:  Call to undefined function search_location() in /home/roaming/public_html/asms/asms.php on line 20
+[19-Jul-2015 15:52:26 America/New_York] PHP Stack trace:
+[19-Jul-2015 15:52:26 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/asms.php:0
+[19-Jul-2015 15:52:34 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[19-Jul-2015 18:22:39 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[19-Jul-2015 19:43:56 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[19-Jul-2015 20:23:42 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[19-Jul-2015 20:23:42 America/New_York] PHP Fatal error:  Call to undefined function search_location() in /home/roaming/public_html/asms/asms.php on line 20
+[19-Jul-2015 20:23:42 America/New_York] PHP Stack trace:
+[19-Jul-2015 20:23:42 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/asms.php:0
+[19-Jul-2015 20:31:55 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[19-Jul-2015 20:33:24 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[19-Jul-2015 20:33:24 America/New_York] PHP Fatal error:  Call to undefined function search_location() in /home/roaming/public_html/asms/asms.php on line 20
+[19-Jul-2015 20:33:24 America/New_York] PHP Stack trace:
+[19-Jul-2015 20:33:24 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/asms.php:0
+[19-Jul-2015 20:33:39 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 17:39:12 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 17:39:13 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 17:40:36 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 17:41:36 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 17:42:33 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 17:43:54 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 17:46:12 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 17:51:41 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 18:01:56 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 19:39:33 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 19:41:56 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 20:38:58 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 20:48:34 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 20:48:38 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 20:49:52 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 20:49:57 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 20:54:32 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 20:54:38 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 20:55:09 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 20:57:27 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 20:58:24 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 20:58:27 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 20:58:55 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 20:59:04 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 20:59:05 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 20:59:10 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 21:00:01 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 21:00:10 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 21:00:16 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 21:01:24 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 21:01:41 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 21:01:51 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 21:03:57 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 21:04:03 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 21:04:09 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 21:04:14 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 21:18:25 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 21:18:32 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 21:18:47 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 21:18:47 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 21:19:35 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 21:27:11 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 21:34:26 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Jul-2015 21:37:20 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[21-Jul-2015 00:32:05 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[21-Jul-2015 11:07:16 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[21-Jul-2015 11:32:08 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[21-Jul-2015 13:48:58 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[21-Jul-2015 13:50:20 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[21-Jul-2015 15:08:15 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[21-Jul-2015 15:18:42 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[21-Jul-2015 16:07:53 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[21-Jul-2015 17:24:27 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[21-Jul-2015 19:18:16 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[21-Jul-2015 19:28:52 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[21-Jul-2015 20:46:39 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[21-Jul-2015 23:30:22 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[22-Jul-2015 00:26:42 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[22-Jul-2015 00:26:42 America/New_York] PHP Fatal error:  Call to undefined function search_location() in /home/roaming/public_html/asms/asms.php on line 20
+[22-Jul-2015 00:26:42 America/New_York] PHP Stack trace:
+[22-Jul-2015 00:26:42 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/asms.php:0
+[22-Jul-2015 00:26:53 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[22-Jul-2015 00:27:41 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[22-Jul-2015 00:27:58 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[22-Jul-2015 00:28:02 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[22-Jul-2015 13:44:19 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[22-Jul-2015 13:44:19 America/New_York] PHP Fatal error:  Call to undefined function search_location() in /home/roaming/public_html/asms/asms.php on line 20
+[22-Jul-2015 13:44:19 America/New_York] PHP Stack trace:
+[22-Jul-2015 13:44:19 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/asms.php:0
+[22-Jul-2015 13:44:29 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[22-Jul-2015 13:48:04 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[22-Jul-2015 13:52:03 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[22-Jul-2015 17:02:12 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[22-Jul-2015 18:14:45 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[22-Jul-2015 18:56:39 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[22-Jul-2015 19:05:36 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[22-Jul-2015 19:45:45 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[22-Jul-2015 20:36:25 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[23-Jul-2015 12:40:47 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[23-Jul-2015 14:41:51 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[23-Jul-2015 14:45:02 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[23-Jul-2015 15:41:09 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[23-Jul-2015 15:41:33 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[23-Jul-2015 15:42:13 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[24-Jul-2015 16:09:51 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[24-Jul-2015 16:11:56 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[24-Jul-2015 16:12:41 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[24-Jul-2015 16:12:44 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[24-Jul-2015 16:12:51 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[24-Jul-2015 16:18:46 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[27-Jul-2015 11:32:18 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[27-Jul-2015 11:32:39 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[27-Jul-2015 11:47:12 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 13:23:56 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 14:33:11 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 14:35:41 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 18:01:38 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[29-Jul-2015 18:40:33 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[31-Jul-2015 17:52:18 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[02-Aug-2015 01:35:10 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[02-Aug-2015 01:39:12 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[04-Aug-2015 14:53:25 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[04-Aug-2015 15:15:48 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[10-Aug-2015 12:24:14 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[10-Aug-2015 12:28:59 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[11-Aug-2015 15:15:02 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[12-Aug-2015 13:01:29 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[13-Aug-2015 11:44:33 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[14-Aug-2015 22:27:46 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[15-Aug-2015 23:54:25 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Aug-2015 11:11:30 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Aug-2015 12:30:20 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Aug-2015 12:37:35 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Aug-2015 12:39:20 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Aug-2015 18:05:29 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Aug-2015 18:06:03 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[17-Aug-2015 18:06:29 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[18-Aug-2015 13:27:54 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[19-Aug-2015 09:07:21 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[19-Aug-2015 13:37:58 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[19-Aug-2015 15:36:16 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[19-Aug-2015 19:00:00 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Aug-2015 16:21:50 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[20-Aug-2015 16:21:50 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[20-Aug-2015 16:21:50 America/New_York] PHP Stack trace:
+[20-Aug-2015 16:21:50 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/index.php:0
+[20-Aug-2015 16:21:50 America/New_York] PHP   2. include() /home/roaming/public_html/asms/index.php:154
+[20-Aug-2015 16:21:50 America/New_York] PHP   3. mysqli_fetch_object() /home/roaming/public_html/asms/includes/pro_list.php:16
+[21-Aug-2015 18:50:51 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[21-Aug-2015 18:50:51 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[21-Aug-2015 18:50:51 America/New_York] PHP Stack trace:
+[21-Aug-2015 18:50:51 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/index.php:0
+[21-Aug-2015 18:50:51 America/New_York] PHP   2. include() /home/roaming/public_html/asms/index.php:154
+[21-Aug-2015 18:50:51 America/New_York] PHP   3. mysqli_fetch_object() /home/roaming/public_html/asms/includes/pro_list.php:16
+[26-Aug-2015 14:25:00 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[26-Aug-2015 14:25:00 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[26-Aug-2015 14:25:00 America/New_York] PHP Stack trace:
+[26-Aug-2015 14:25:00 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/index.php:0
+[26-Aug-2015 14:25:00 America/New_York] PHP   2. include() /home/roaming/public_html/asms/index.php:154
+[26-Aug-2015 14:25:00 America/New_York] PHP   3. mysqli_fetch_object() /home/roaming/public_html/asms/includes/pro_list.php:16
+[26-Aug-2015 15:56:42 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[26-Aug-2015 15:56:42 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[26-Aug-2015 15:56:42 America/New_York] PHP Stack trace:
+[26-Aug-2015 15:56:42 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/index.php:0
+[26-Aug-2015 15:56:42 America/New_York] PHP   2. include() /home/roaming/public_html/asms/index.php:154
+[26-Aug-2015 15:56:42 America/New_York] PHP   3. mysqli_fetch_object() /home/roaming/public_html/asms/includes/pro_list.php:16
+[26-Aug-2015 16:01:58 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[26-Aug-2015 16:01:58 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[26-Aug-2015 16:01:58 America/New_York] PHP Stack trace:
+[26-Aug-2015 16:01:58 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/index.php:0
+[26-Aug-2015 16:01:58 America/New_York] PHP   2. include() /home/roaming/public_html/asms/index.php:154
+[26-Aug-2015 16:01:58 America/New_York] PHP   3. mysqli_fetch_object() /home/roaming/public_html/asms/includes/pro_list.php:16
+[26-Aug-2015 16:11:29 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[26-Aug-2015 16:11:29 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[26-Aug-2015 16:11:29 America/New_York] PHP Stack trace:
+[26-Aug-2015 16:11:29 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/index.php:0
+[26-Aug-2015 16:11:29 America/New_York] PHP   2. include() /home/roaming/public_html/asms/index.php:154
+[26-Aug-2015 16:11:29 America/New_York] PHP   3. mysqli_fetch_object() /home/roaming/public_html/asms/includes/pro_list.php:16
+[26-Aug-2015 16:11:37 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[26-Aug-2015 16:11:37 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[26-Aug-2015 16:11:37 America/New_York] PHP Stack trace:
+[26-Aug-2015 16:11:37 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/index.php:0
+[26-Aug-2015 16:11:37 America/New_York] PHP   2. include() /home/roaming/public_html/asms/index.php:154
+[26-Aug-2015 16:11:37 America/New_York] PHP   3. mysqli_fetch_object() /home/roaming/public_html/asms/includes/pro_list.php:16
+[26-Aug-2015 16:12:16 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[26-Aug-2015 16:12:16 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[26-Aug-2015 16:12:16 America/New_York] PHP Stack trace:
+[26-Aug-2015 16:12:16 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/index.php:0
+[26-Aug-2015 16:12:16 America/New_York] PHP   2. include() /home/roaming/public_html/asms/index.php:154
+[26-Aug-2015 16:12:16 America/New_York] PHP   3. mysqli_fetch_object() /home/roaming/public_html/asms/includes/pro_list.php:16
+[26-Aug-2015 16:12:30 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[26-Aug-2015 16:12:30 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[26-Aug-2015 16:12:30 America/New_York] PHP Stack trace:
+[26-Aug-2015 16:12:30 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/index.php:0
+[26-Aug-2015 16:12:30 America/New_York] PHP   2. include() /home/roaming/public_html/asms/index.php:154
+[26-Aug-2015 16:12:30 America/New_York] PHP   3. mysqli_fetch_object() /home/roaming/public_html/asms/includes/pro_list.php:16
+[31-Aug-2015 19:48:13 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[31-Aug-2015 19:48:14 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[31-Aug-2015 19:48:14 America/New_York] PHP Stack trace:
+[31-Aug-2015 19:48:14 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/index.php:0
+[31-Aug-2015 19:48:14 America/New_York] PHP   2. include() /home/roaming/public_html/asms/index.php:154
+[31-Aug-2015 19:48:14 America/New_York] PHP   3. mysqli_fetch_object() /home/roaming/public_html/asms/includes/pro_list.php:16
+[03-Sep-2015 19:57:40 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[03-Sep-2015 19:57:40 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/roaming/public_html/classes/mysql.php on line 28
+[03-Sep-2015 19:57:40 America/New_York] PHP Stack trace:
+[03-Sep-2015 19:57:40 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/index.php:0
+[03-Sep-2015 19:57:40 America/New_York] PHP   2. include() /home/roaming/public_html/asms/index.php:154
+[03-Sep-2015 19:57:40 America/New_York] PHP   3. Mysql->dbConnect() /home/roaming/public_html/asms/includes/pro_list.php:6
+[03-Sep-2015 19:57:40 America/New_York] PHP   4. mysqli_connect() /home/roaming/public_html/classes/mysql.php:28
+[03-Sep-2015 19:57:40 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/roaming/public_html/classes/mysql.php on line 112
+[03-Sep-2015 19:57:40 America/New_York] PHP Stack trace:
+[03-Sep-2015 19:57:40 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/index.php:0
+[03-Sep-2015 19:57:40 America/New_York] PHP   2. include() /home/roaming/public_html/asms/index.php:154
+[03-Sep-2015 19:57:40 America/New_York] PHP   3. Mysql->selectFreeRun() /home/roaming/public_html/asms/includes/pro_list.php:14
+[03-Sep-2015 19:57:40 America/New_York] PHP   4. mysqli_query() /home/roaming/public_html/classes/mysql.php:112
+[03-Sep-2015 19:57:40 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[03-Sep-2015 19:57:40 America/New_York] PHP Stack trace:
+[03-Sep-2015 19:57:40 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/index.php:0
+[03-Sep-2015 19:57:40 America/New_York] PHP   2. include() /home/roaming/public_html/asms/index.php:154
+[03-Sep-2015 19:57:40 America/New_York] PHP   3. mysqli_fetch_object() /home/roaming/public_html/asms/includes/pro_list.php:16
+[03-Sep-2015 19:58:13 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[03-Sep-2015 19:58:13 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/roaming/public_html/classes/mysql.php on line 28
+[03-Sep-2015 19:58:13 America/New_York] PHP Stack trace:
+[03-Sep-2015 19:58:13 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/index.php:0
+[03-Sep-2015 19:58:13 America/New_York] PHP   2. include() /home/roaming/public_html/asms/index.php:154
+[03-Sep-2015 19:58:13 America/New_York] PHP   3. Mysql->dbConnect() /home/roaming/public_html/asms/includes/pro_list.php:6
+[03-Sep-2015 19:58:13 America/New_York] PHP   4. mysqli_connect() /home/roaming/public_html/classes/mysql.php:28
+[03-Sep-2015 19:58:13 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/roaming/public_html/classes/mysql.php on line 112
+[03-Sep-2015 19:58:13 America/New_York] PHP Stack trace:
+[03-Sep-2015 19:58:13 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/index.php:0
+[03-Sep-2015 19:58:13 America/New_York] PHP   2. include() /home/roaming/public_html/asms/index.php:154
+[03-Sep-2015 19:58:13 America/New_York] PHP   3. Mysql->selectFreeRun() /home/roaming/public_html/asms/includes/pro_list.php:14
+[03-Sep-2015 19:58:13 America/New_York] PHP   4. mysqli_query() /home/roaming/public_html/classes/mysql.php:112
+[03-Sep-2015 19:58:13 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[03-Sep-2015 19:58:13 America/New_York] PHP Stack trace:
+[03-Sep-2015 19:58:13 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/index.php:0
+[03-Sep-2015 19:58:13 America/New_York] PHP   2. include() /home/roaming/public_html/asms/index.php:154
+[03-Sep-2015 19:58:13 America/New_York] PHP   3. mysqli_fetch_object() /home/roaming/public_html/asms/includes/pro_list.php:16
+[03-Sep-2015 19:58:46 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[03-Sep-2015 19:58:47 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/roaming/public_html/classes/mysql.php on line 28
+[03-Sep-2015 19:58:47 America/New_York] PHP Stack trace:
+[03-Sep-2015 19:58:47 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/index.php:0
+[03-Sep-2015 19:58:47 America/New_York] PHP   2. include() /home/roaming/public_html/asms/index.php:154
+[03-Sep-2015 19:58:47 America/New_York] PHP   3. Mysql->dbConnect() /home/roaming/public_html/asms/includes/pro_list.php:6
+[03-Sep-2015 19:58:47 America/New_York] PHP   4. mysqli_connect() /home/roaming/public_html/classes/mysql.php:28
+[03-Sep-2015 19:58:47 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/roaming/public_html/classes/mysql.php on line 112
+[03-Sep-2015 19:58:47 America/New_York] PHP Stack trace:
+[03-Sep-2015 19:58:47 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/index.php:0
+[03-Sep-2015 19:58:47 America/New_York] PHP   2. include() /home/roaming/public_html/asms/index.php:154
+[03-Sep-2015 19:58:47 America/New_York] PHP   3. Mysql->selectFreeRun() /home/roaming/public_html/asms/includes/pro_list.php:14
+[03-Sep-2015 19:58:47 America/New_York] PHP   4. mysqli_query() /home/roaming/public_html/classes/mysql.php:112
+[03-Sep-2015 19:58:47 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[03-Sep-2015 19:58:47 America/New_York] PHP Stack trace:
+[03-Sep-2015 19:58:47 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/index.php:0
+[03-Sep-2015 19:58:47 America/New_York] PHP   2. include() /home/roaming/public_html/asms/index.php:154
+[03-Sep-2015 19:58:47 America/New_York] PHP   3. mysqli_fetch_object() /home/roaming/public_html/asms/includes/pro_list.php:16
+[03-Sep-2015 19:59:17 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[03-Sep-2015 19:59:17 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/roaming/public_html/classes/mysql.php on line 28
+[03-Sep-2015 19:59:17 America/New_York] PHP Stack trace:
+[03-Sep-2015 19:59:17 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/index.php:0
+[03-Sep-2015 19:59:17 America/New_York] PHP   2. include() /home/roaming/public_html/asms/index.php:154
+[03-Sep-2015 19:59:17 America/New_York] PHP   3. Mysql->dbConnect() /home/roaming/public_html/asms/includes/pro_list.php:6
+[03-Sep-2015 19:59:17 America/New_York] PHP   4. mysqli_connect() /home/roaming/public_html/classes/mysql.php:28
+[03-Sep-2015 19:59:17 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/roaming/public_html/classes/mysql.php on line 112
+[03-Sep-2015 19:59:17 America/New_York] PHP Stack trace:
+[03-Sep-2015 19:59:17 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/index.php:0
+[03-Sep-2015 19:59:17 America/New_York] PHP   2. include() /home/roaming/public_html/asms/index.php:154
+[03-Sep-2015 19:59:17 America/New_York] PHP   3. Mysql->selectFreeRun() /home/roaming/public_html/asms/includes/pro_list.php:14
+[03-Sep-2015 19:59:17 America/New_York] PHP   4. mysqli_query() /home/roaming/public_html/classes/mysql.php:112
+[03-Sep-2015 19:59:17 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[03-Sep-2015 19:59:17 America/New_York] PHP Stack trace:
+[03-Sep-2015 19:59:17 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/index.php:0
+[03-Sep-2015 19:59:17 America/New_York] PHP   2. include() /home/roaming/public_html/asms/index.php:154
+[03-Sep-2015 19:59:17 America/New_York] PHP   3. mysqli_fetch_object() /home/roaming/public_html/asms/includes/pro_list.php:16
+[04-Sep-2015 12:47:06 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[04-Sep-2015 12:47:06 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[04-Sep-2015 12:47:06 America/New_York] PHP Stack trace:
+[04-Sep-2015 12:47:06 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/index.php:0
+[04-Sep-2015 12:47:06 America/New_York] PHP   2. include() /home/roaming/public_html/asms/index.php:154
+[04-Sep-2015 12:47:06 America/New_York] PHP   3. mysqli_fetch_object() /home/roaming/public_html/asms/includes/pro_list.php:16
+[04-Sep-2015 14:11:21 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[04-Sep-2015 14:11:21 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[04-Sep-2015 14:11:21 America/New_York] PHP Stack trace:
+[04-Sep-2015 14:11:21 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/index.php:0
+[04-Sep-2015 14:11:21 America/New_York] PHP   2. include() /home/roaming/public_html/asms/index.php:154
+[04-Sep-2015 14:11:21 America/New_York] PHP   3. mysqli_fetch_object() /home/roaming/public_html/asms/includes/pro_list.php:16
+[04-Sep-2015 14:22:58 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[04-Sep-2015 14:22:58 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[04-Sep-2015 14:22:58 America/New_York] PHP Stack trace:
+[04-Sep-2015 14:22:58 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/index.php:0
+[04-Sep-2015 14:22:58 America/New_York] PHP   2. include() /home/roaming/public_html/asms/index.php:154
+[04-Sep-2015 14:22:58 America/New_York] PHP   3. mysqli_fetch_object() /home/roaming/public_html/asms/includes/pro_list.php:16
+[07-Sep-2015 19:26:31 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[07-Sep-2015 19:26:31 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[07-Sep-2015 19:26:31 America/New_York] PHP Stack trace:
+[07-Sep-2015 19:26:31 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/index.php:0
+[07-Sep-2015 19:26:31 America/New_York] PHP   2. include() /home/roaming/public_html/asms/index.php:154
+[07-Sep-2015 19:26:31 America/New_York] PHP   3. mysqli_fetch_object() /home/roaming/public_html/asms/includes/pro_list.php:16
+[07-Sep-2015 19:29:35 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[07-Sep-2015 19:29:36 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[07-Sep-2015 19:29:36 America/New_York] PHP Stack trace:
+[07-Sep-2015 19:29:36 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/index.php:0
+[07-Sep-2015 19:29:36 America/New_York] PHP   2. include() /home/roaming/public_html/asms/index.php:154
+[07-Sep-2015 19:29:36 America/New_York] PHP   3. mysqli_fetch_object() /home/roaming/public_html/asms/includes/pro_list.php:16
+[14-Sep-2015 15:03:51 America/New_York] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[14-Sep-2015 15:03:51 America/New_York] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[14-Sep-2015 15:03:51 America/New_York] PHP Stack trace:
+[14-Sep-2015 15:03:51 America/New_York] PHP   1. {main}() /home/roaming/public_html/asms/index.php:0
+[14-Sep-2015 15:03:51 America/New_York] PHP   2. include() /home/roaming/public_html/asms/index.php:154
+[14-Sep-2015 15:03:51 America/New_York] PHP   3. mysqli_fetch_object() /home/roaming/public_html/asms/includes/pro_list.php:16
+[17-Sep-2015 00:01:11 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[17-Sep-2015 23:50:28 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[17-Sep-2015 23:51:15 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[18-Sep-2015 18:07:51 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[18-Sep-2015 18:08:02 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[18-Sep-2015 18:08:21 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[21-Sep-2015 19:01:54 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[21-Sep-2015 19:30:38 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[22-Sep-2015 23:55:52 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[22-Sep-2015 23:56:33 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[22-Sep-2015 23:56:44 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/roaming/public_html/asms/includes/pro_list.php on line 16
+[26-Sep-2015 21:38:46 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/roaming/public_html/classes/mysql.php on line 28
+[26-Sep-2015 22:02:38 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/roaming/public_html/classes/mysql.php on line 28
+[26-Sep-2015 22:05:43 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/roaming/public_html/classes/mysql.php on line 28
+[26-Sep-2015 22:26:10 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/roaming/public_html/classes/mysql.php on line 28
+[26-Sep-2015 22:26:44 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/roaming/public_html/classes/mysql.php on line 28

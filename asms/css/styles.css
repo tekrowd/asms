@@ -1,0 +1,125 @@
+.full_width {
+	padding-left:0px;
+	padding-right:0px;
+}
+#mapCanvas {
+	border: 1px solid #C0C0C0;
+	margin-top: auto;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: auto;
+	width: 100%;
+	height: 675px;
+	float: left;
+}
+.pro_box {
+	max-width:400px;
+}
+.summary {
+	height: 250px;
+	border: 1px solid #e8e8e8;
+	background-color: #f9f9f9;
+	border-radius: 10px;
+	-moz-border-radius-topleft: 10px;
+	-moz-border-radius-topright: 10px;
+	-moz-border-radius-bottomright: 10px;
+	-moz-border-radius-bottomleft: 10px;
+	padding-left: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #660000;
+	margin-bottom:20px;
+}
+.summary ul {
+	margin: 0px;
+	margin-bottom:10px;
+	padding:0px;
+}
+#contentList {
+	margin-top:20px;
+}
+.main-content {
+	border:1px solid #D8D8D8;
+	min-height:50px;
+	margin-bottom:5px;
+	border-radius:5px;
+}
+.pro-details span {
+	vertical-align:middle;
+	line-height:50px;
+}
+.details {
+	float:left;
+	margin-left:10px;
+	margin-right:10px;
+}
+.options {
+	float:right;
+}
+.option-button {
+	margin:7px 5px 0px 0px;
+}
+.pro-dropdown {
+	min-height:100px;
+	border-radius:5px;
+	border:1px solid #D8D8D8;
+	margin-bottom:5px;
+}
+#tooplate_content {
+  margin: 0 auto;
+  padding: 30px 10px;
+  width: 940px;
+}
+#tooplate_content p {
+  margin-bottom: 10px;
+}
+#contact_form {
+  padding: 0;
+  width: 412px;
+}
+#contact_form form {
+  margin: 0px;
+  padding: 0px;
+}
+#contact_form form .input_field {
+  border: 1px solid #dfdfdf;
+  padding: 5px;
+  background: #ffffff none repeat scroll 0% 50%;
+  width: 300px;
+  font-family: Verdana,Geneva,sans-serif;
+  font-size: 12px;
+  margin-top: 5px;
+}
+#contact_form form label {
+  display: block;
+  width: 100px;
+  margin-right: 10px;
+  font-size: 13px;
+}
+#contact_form form textarea {
+  border: 1px solid #dfdfdf;
+  padding: 5px;
+  background: #ffffff none repeat scroll 0% 50%;
+  width: 400px;
+  height: 200px;
+  font-family: Verdana,Geneva,sans-serif;
+  font-size: 12px;
+  margin-top: 5px;
+}
+#contact_form form .submit_btn {
+  border: 1px solid #dfdfdf;
+  margin: 5px 0px;
+  padding: 3px 14px;
+  background: #f3f3f3 none repeat scroll 0% 50%;
+  font-weight: bold;
+}
+.col_w460 {
+  border-right: 1px solid #b2c9d2;
+  float: left;
+  width: 419px;
+  padding-right: 40px;
+  margin-right: 20px;
+}
+.last_col {
+  border-right: medium none;
+  margin-right: 0;
+}
